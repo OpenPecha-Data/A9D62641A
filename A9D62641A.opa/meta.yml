@@ -1,0 +1,19 @@
+id: A9D62641A
+title: 'Treasury of Supreme Blessings: A Guru Yoga'
+type: translation
+pechas:
+- I9B7D19F0
+- IA0C480DB
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:33:13.528002
+  last_modified_at: 2023-01-04 11:33:13.528013
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9B7D19F0/2202: 153D
+  IA0C480DB/4216: 153D
